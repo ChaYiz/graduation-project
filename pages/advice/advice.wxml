@@ -1,0 +1,6 @@
+<form action="">
+  <view class="tText">
+  <textarea  name="" id="" cols="30" rows="10" placeholder='请输入内容...' value="{{neiRon}}"></textarea>
+</view>
+  <button class="btn" bindtap="goSend"  >发送</button>
+</form>

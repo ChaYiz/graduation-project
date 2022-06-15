@@ -1,0 +1,64 @@
+<swiper class="banner" indicator-dots indicator-active-color="rbga(255,255,255,0.5)" indicator-active-color="#fff" autoplay interval="2000" circular previous-margin="20" next-margin="20">
+  <swiper-item class="bannerItem">
+  <image src="https://tse1-mm.cn.bing.net/th/id/R-C.44a784e48d4a8b412908560d136b0d16?rik=PXMnzdIz4TeiQg&riu=http%3a%2f%2fbpic.588ku.com%2fback_pic%2f05%2f22%2f01%2f4659e1f653e1f93.jpg!%2ffh%2f300%2fquality%2f90%2funsharp%2ftrue%2fcompress%2ftrue&ehk=INuYmDC%2ffOl5ef%2bc1bYN6n4aEjoxd0Gp1z2Y7cLw3kc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" mode="widthFix" show-menu-by-longpress/> 111
+  </swiper-item>
+  <swiper-item class="bannerItem">
+  <image src="https://tse1-mm.cn.bing.net/th/id/OIP-C.ryqBjq-uLxL4VGksfQb3AAHaD3?pid=ImgDet&w=696&h=364&rs=1" mode="widthFix" show-menu-by-longpress/> 222
+  </swiper-item>
+  <swiper-item class="bannerItem">
+  <image src="https://image.freepik.com/free-photo/barbecue-skewers-with-meat-vegetable-circular-black-slate_23-2148206998.jpg" mode="widthFix" show-menu-by-longpress/>333
+  </swiper-item>
+</swiper>
+
+<view class="bingBox">
+    <view class="xingBox">
+    <image class="picture" bindtap="onShow1" src="https://hbimg.huabanimg.com/e4ba8bdc49a6985ee87ae3eb81d6b8f2458bcb0392f5a-KaJGBQ_fw658/format/webp"/>
+    <view class="pText">安格斯鲜蔬堡</view>
+    </view>
+    <view class="xingBox">
+    <image class="picture" bindtap="onShow2" src="https://hbimg.huabanimg.com/652d26135d6deb12150dbfb9a5a08c3d894a665c9e194-joJ44J_fw658/format/webp"/>
+    <view class="pText">咖喱牛肉盖浇饭</view>
+    </view>
+</view>
+<view class="bingBox">
+    <view class="xingBox">
+    <image class="picture" bindtap="onShow3" src="https://hbimg.huabanimg.com/308f3e4d1b644af5be032882543cdc1bdfe51083ae4a0-7g3HO6_fw658/format/webp" />
+    <view class="pText">肉酿茄子</view>
+    </view>
+    <view class="xingBox">
+    <image class="picture" bindtap="onShow4" src="https://hbimg.huabanimg.com/4842fd7fa7a1ce99b716d8fac25c5ec060c1dff9a0178-ArUIPG_fw658/format/webp" />
+    <view class="pText">三丝炒饭</view>
+    </view>
+</view>
+<view class="bingBox">
+    <view class="xingBox">
+    <image class="picture" bindtap="onShow5" src="https://hbimg.huabanimg.com/10f2b52a249856708b786eb5b50a90a827b600f59ba33-EOpKEH_fw658/format/webp"/>
+    <view class="pText">番茄披萨</view>
+    </view>
+    <view class="xingBox">
+    <image class="picture" bindtap="onShow6" src="https://hbimg.huabanimg.com/ebd441c599af90bc2ee63dfe77e0ff50bbf57b69895ca-gzHPR9_fw658/format/webp" />
+    <view class="pText">纳豆</view>
+    </view>
+</view>
+
+<view class="bingBox">
+    <view class="xingBox">
+    <image class="picture" bindtap="onShow7" src="https://hbimg.huabanimg.com/ac636fa531d5767773626f971e7be5fa24b8f65ea4840-2H77JX_fw658/format/webp"/>
+    <view class="pText">虾仁炒粿条</view>
+    </view>
+    <view class="xingBox">
+    <image class="picture" bindtap="onShow8" src="https://hbimg.huabanimg.com/4af00c65df8d6bdc3fc10bf6d69e1ab29d841cbfa87bd-OVvPQc_fw658/format/webp"/>
+    <view class="pText">葱花鸡蛋羹</view>
+    </view>
+</view>
+<view class="bingBox">
+    <view class="xingBox">
+    <image class="picture" bindtap="onShow9" src="https://hbimg.huabanimg.com/03bea9a344d96949a43a72e6d1521d3293f7ddce95976-1qHcIr_fw658/format/webp"/>
+    <view class="pText">青瓜牛肉</view>
+    </view>
+    <view class="xingBox">
+    <image class="picture" bindtap="onShow10" src="https://hbimg.huabanimg.com/3753d19e0ae0d706e4ba12ca29ddaa28cf9172528064a-lbLTSk_fw658/format/webp"/>
+    <view class="pText">葱花虾滑</view>
+    </view>
+
+</view>

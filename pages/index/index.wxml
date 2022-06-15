@@ -1,0 +1,40 @@
+<!--head -->
+<view class="header">
+    <view class="content-wrapper">
+      <view class="avatar">
+        <image src="/image/粑粑人头像.jpg" style="width:64px;height:64px;"></image>
+      </view>
+      <view class="content">
+        <view class="title">
+          <image src="/image/brand@2x.png" style="width:30px;height:18px;"></image>
+          <span class="name">呼伦贝尔大烤肉</span>
+        </view>
+        <view class="description">
+                <span>叙利亚速递 / 分秒必达</span>
+        </view>
+        <view v-if="seller.supports" class="support">
+          <span class="icon" :class="classMap[seller.supports[0].type]">
+            <image src="/image/decrease_1@2x.png" style="width:12px;height:12px;"></image>
+          </span>
+          <span class="text">在线支付满28减5</span>
+        </view>
+      </view>
+      <view class="supports-count">
+        <view class="count">5个</view>
+      </view>
+    </view>
+    <view class="bulletin-wrapper">
+      <image src="/image/bulletin@2x.png" style="width:22px;height:12px;"></image>
+      <span class="bulletin-text">"呼伦贝尔大草原空运来的鲜羔羊，膻味轻，肉质鲜，吃过都说好！北纬49°羊肉串不同于别家的羊肉串，区别在于瘦羊肉中加入了一块肥羊肉，再用一块羊排肉封串，三种肉，三种口感，每一串都是羊中精华，非同一般。羊肉冒着油光，表面被烤到金黄，肥瘦比例正好，入口肉嫩多汁，香而不腻。"</span>
+    </view>
+    <view class="background">
+      <image src="https://c.pxhere.com/photos/87/dd/night_sky_moon_sea_night_violett_crescent_sky_evening-924804.jpg!d" style="width:100%;height:100%;" mode="widthFix"></image>
+    </view>
+  </view>
+<!--head -->
+
+<!-- tab -->
+  <view class="tab">
+    
+  </view>
+<!-- tab -->

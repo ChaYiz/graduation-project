@@ -1,0 +1,28 @@
+<image src="/image/Zheng.png"></image>
+
+<view class="shuai">
+  <view class="one">
+    <image class="tu1" src="/image/NTF.jpg" bindtap="gologin" />
+    <view class="xiaoBox">
+      <p class="Ju">菜品信息</p>
+      <image class="picture" src="/image/地址.png" mode="heightFix"  mode="widthFix" bindtap="goAddress"></image>
+    </view>
+
+    <view class="xiaoBox">
+      <p class="Ju">关于使用</p>
+      <image class="picture" src="/image/关于.png" mode="heightFix"  mode="widthFix" bindtap="goUse"></image>
+    </view>
+  </view>
+  <view class="twe">
+    <view class="xiaoBox">
+      <p class="Ju">桌面点餐</p>
+      <image class="picture" src="/image/包.png" mode="heightFix"  mode="widthFix" bindtap="goStore"></image>
+    </view>
+    <view class="xiaoBox" bindtap="goInformation">
+      <p class="Ju">菜品评论</p>
+      <image class="picture" src="/image/书.png" mode="heightFix" mode="widthFix" bindtap="goComments"></image>
+    </view>
+
+  </view>
+
+</view>

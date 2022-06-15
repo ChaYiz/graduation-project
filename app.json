@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/indexin/indexin",
+    "pages/index/index",
+    "pages/order/order",
+    "pages/indent/indent",
+    "pages/comments/comments",
+    "pages/login/login",
+    "pages/advice/advice",
+    "pages/logs/logs",
+    "pages/use/use",
+    "pages/agreement/agreement",
+    "pages/rules/rules",
+    "pages/information/information",
+    "pages/addressList/addressList",
+    "pages/store/store"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fae973",
+    "navigationBarTitleText": "餐厅在线点单系统",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "点击确认"
+    }
+  }
+}

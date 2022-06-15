@@ -1,0 +1,28 @@
+page{
+  background: #f6f6f6;
+}
+.tText{
+  width: 610rpx;
+  height: 500rpx;
+  border-radius: 30rpx;
+  margin-top: 70rpx;
+  margin-left: 45rpx;
+  padding-top: 50rpx;
+  padding-left: 50rpx;
+  background: white;
+  /* align-items: center;
+  justify-content: center;
+  display:flex;
+  text-align: center; */
+}
+
+.btn{
+  /* display:flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center; */
+  background: yellow;
+  border-radius: 80rpx;
+  margin-top: 400rpx;
+  margin-left: 330rpx;
+}

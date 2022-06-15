@@ -1,0 +1,20 @@
+<view class="theText">
+  <text>他/她 人的评论</text>
+</view>
+<view class="box1">
+  <view class="underline">
+    <image style="transform: rotate({{XZ}}deg); margin-top: 20rpx;" bindtap="goXZ" class="drop-down" src="/image/圆点.png" /><text>朋友都喜欢吃味道真的不错,坐下之后人瞬间好多.不过感觉涮菜吃的时候有点咸了.今天还是比较幸运的,不过量绝对是够的,去了没有排队</text>
+  </view>
+  <view class="underline">
+    <image class="drop-down" src="/image/圆点.png" /><text>这家餐厅环境很好，非常干净整洁，食物不仅外形美观，重要的是味道非常棒，色味俱佳。做法保留了食材原有的味道，清新爽口。而且菜品选择非常多，价格也不高，适合带着家人一起去。</text>
+  </view>
+  <view class="underline">
+    <image class="drop-down" src="/image/圆点.png" /><text>味道超赞，而且一看就让人觉得很有食欲，但是分量不大，属于比较精致的类型。胜在菜品也很新鲜，味道咸淡适中，而且火候掌握的刚好。上菜速度很快。就是用餐环境还需要改善，但是价格非常实惠，基本隔段时间就会来一次。</text>
+  </view>
+  <view class="underline">
+    <image class="drop-down" src="/image/圆点.png" /><text>今天吃到这个东西非常的美味可口，他的造型也非常好看，香味也非常的独特，所车道的非常优秀的食物，我以后还会再来这个地方购物的。</text>
+  </view>
+
+
+</view>
+<button class="btn" bindtap="goJy">建议 / 评论</button>

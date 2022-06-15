@@ -1,0 +1,11 @@
+<form class="big">
+  <view>
+  <navigator class="box" url="/pages/rules/rules" >
+  <image src="/image/下拉箭头.png" />使用规则</navigator>
+  </view>
+  <view>
+  <navigator class="box" url="/pages/agreement/agreement">
+  <image src="/image/下拉箭头.png" />使用协议</navigator>
+  </view>
+  <view class="box">版本号 <p>1.0.1</p></view>
+</form>

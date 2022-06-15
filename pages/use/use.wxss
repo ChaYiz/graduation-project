@@ -1,0 +1,30 @@
+page{
+  background: #f6f6f6;
+}
+.big{
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.box{
+  width: 650rpx;
+  height: 80rpx;
+  background: white;
+  margin: 30rpx 0 0 40rpx;
+  padding: 30rpx 0 0 30rpx;
+  font-weight: 700;
+  border-radius: 60rpx;
+}
+
+image{
+  height: 30rpx;
+  width: 30rpx;
+  float: right;
+  margin: 10rpx 35rpx 0 0;
+}
+p{
+    float: right;
+    margin-right: 35rpx;
+}

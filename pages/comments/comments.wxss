@@ -1,0 +1,43 @@
+page{
+  background: #f6f6f6;
+}
+.theText{
+  margin: 40rpx 0 0 50rpx;
+  font-weight: bold;
+}
+
+.box1{
+  width: 650rpx;
+  height: 500rpx;
+  margin: 30rpx 0 0 50rpx;
+  border-radius: 30rpx;
+  background: white;
+  overflow: scroll;
+}
+.underline{
+  border-bottom: 1px solid #f6f6f6b7;
+  /* margin-top: 30rpx; */
+  margin: 30rpx;
+}
+.drop-down{
+  margin: 0 20rpx 0 20rpx;
+  width: 30rpx;
+  height: 30rpx;
+  /* transform: rotate(180deg); */
+}
+
+
+.btn{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 500rpx 0 0 290rpx;
+  border-radius: 50rpx;
+  font-weight: 500;
+  background: yellow;
+}
+
+
+
+
